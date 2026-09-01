@@ -1,10 +1,10 @@
-# Hello there, This is Abdelkarim Bengherbia!
+# Hello there, I'm Karim!
 
-- 🎓 I'm currently pursuing a Master's in Networks and Systems Engineering at Paris Saclay University.
+- 🎓 Currently pursuing a Master's in Networks and Systems Engineering at Paris Saclay University.
 
-- 🙋‍♂️ I'm interested in Software engineering !
+- 🙋‍♂️ Interested in Software engineering !
 
-- 💁‍♂️ I'm looking to collaborate on open source software projects.
+- 💁‍♂️ Looking to collaborate on open source software projects.
 
 - 📫 Reach me via [abdelkarimbengherbia@gmail.com](mailto:abdelkarimbengherbia@gmail.com).
 
